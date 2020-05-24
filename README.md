@@ -12,13 +12,11 @@ Angular, React, HTML, CSS, Javascript, NodeJS, PostgreSQL, Firebase, Heroku, AWS
 
 <h4>Modules</h4>
 
-[Administrator](https://marketplace-administrator.web.app/) </br>
-[App](https://marketplace-app.web.app/book-marketplace) </br>
-[Scanner](https://marketplace-scanner.web.app/) </br>
-[Dashboard](https://marketplace-dashboard.web.app/)
-
-<h4>More details</h4>
-
 [Webpage](https://covid19-marketplace.web.app/) </br>
+  -[Administrator](https://marketplace-administrator.web.app/) </br>
+  -[App](https://marketplace-app.web.app/book-marketplace) </br>
+  -[Scanner](https://marketplace-scanner.web.app/) </br>
+  -[Dashboard](https://marketplace-dashboard.web.app/)</br>
+
 [Demo Video](https://youtu.be/yzR79zQVGlI)
 
